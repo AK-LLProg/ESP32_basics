@@ -24,3 +24,4 @@ UseCRLF: false
 DerivePointerAlignment: false
 PointerAlignment: Left
 BreakBeforeBraces: Stroustrup
+#BreakBeforeBraces: Attach
